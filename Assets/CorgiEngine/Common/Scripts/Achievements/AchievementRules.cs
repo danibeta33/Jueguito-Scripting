@@ -60,7 +60,7 @@ namespace MoreMountains.CorgiEngine
 			{
 				if (pickableItemEvent.PickedItem.GetComponent<Coin>() != null)
 				{
-					MMAchievementManager.AddProgress ("MoneyMoneyMoney", 1);
+					MMAchievementManager.AddProgress ("slime", 1);
 				}
 				if (pickableItemEvent.PickedItem.GetComponent<Stimpack>() != null)
 				{
