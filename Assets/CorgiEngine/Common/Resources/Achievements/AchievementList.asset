@@ -31,12 +31,12 @@ MonoBehaviour:
     HiddenAchievement: 0
     UnlockedStatus: 0
     Title: Saltamontes
-    Description: Salta 20 veces a lo largo del nivel
+    Description: Salta 50 veces a lo largo del nivel
     Points: 100
     LockedImage: {fileID: 21300010, guid: fa6d364a5a0575245859952062aea14b, type: 3}
     UnlockedImage: {fileID: 21300000, guid: fa6d364a5a0575245859952062aea14b, type: 3}
     UnlockedSound: {fileID: 0}
-    ProgressTarget: 20
+    ProgressTarget: 50
     ProgressCurrent: 0
   - AchievementID: slime
     AchievementType: 0
@@ -48,14 +48,14 @@ MonoBehaviour:
     LockedImage: {fileID: 21300010, guid: fa6d364a5a0575245859952062aea14b, type: 3}
     UnlockedImage: {fileID: 21300002, guid: fa6d364a5a0575245859952062aea14b, type: 3}
     UnlockedSound: {fileID: 0}
-    ProgressTarget: 15
+    ProgressTarget: 21
     ProgressCurrent: 0
-  - AchievementID: DeathIsOnlyTheBeginning
+  - AchievementID: primera muerte
     AchievementType: 0
     HiddenAchievement: 0
     UnlockedStatus: 0
-    Title: Death is only the Beginning
-    Description: Die for the first time
+    Title: skill issue
+    Description: muere por primera vez en el nivel
     Points: 30
     LockedImage: {fileID: 21300010, guid: fa6d364a5a0575245859952062aea14b, type: 3}
     UnlockedImage: {fileID: 21300008, guid: fa6d364a5a0575245859952062aea14b, type: 3}
