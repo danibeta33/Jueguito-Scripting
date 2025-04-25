@@ -18,7 +18,7 @@ MonoBehaviour:
     AchievementType: 0
     HiddenAchievement: 0
     UnlockedStatus: 0
-    Title: Your Princess is in Another Castle
+    Title: cada vez mas cerca
     Description: Reach the end of a level
     Points: 200
     LockedImage: {fileID: 21300010, guid: fa6d364a5a0575245859952062aea14b, type: 3}
@@ -43,7 +43,7 @@ MonoBehaviour:
     HiddenAchievement: 0
     UnlockedStatus: 0
     Title: slime por todos lados
-    Description: recoge 15 bolas de slime a lo largo del nivel
+    Description: recolecta todas las bolas de slime del nivel
     Points: 50
     LockedImage: {fileID: 21300010, guid: fa6d364a5a0575245859952062aea14b, type: 3}
     UnlockedImage: {fileID: 21300002, guid: fa6d364a5a0575245859952062aea14b, type: 3}
@@ -62,12 +62,12 @@ MonoBehaviour:
     UnlockedSound: {fileID: 0}
     ProgressTarget: 0
     ProgressCurrent: 0
-  - AchievementID: Medic
+  - AchievementID: jetpack
     AchievementType: 0
     HiddenAchievement: 0
     UnlockedStatus: 0
-    Title: Medic !
-    Description: Grab a health bonus
+    Title: jetpack
+    Description: obten el jetpack
     Points: 25
     LockedImage: {fileID: 21300010, guid: fa6d364a5a0575245859952062aea14b, type: 3}
     UnlockedImage: {fileID: 21300006, guid: fa6d364a5a0575245859952062aea14b, type: 3}

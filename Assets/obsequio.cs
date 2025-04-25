@@ -28,6 +28,7 @@ public class obsequio : MonoBehaviour, MMEventListener<PickableItemEvent>
             if (puntos >= 120 && specialItem != null)
             {
                 specialItem.SetActive(true); // Activa el objeto
+                MMAchievementManager.UnlockAchievement("jetpack");
             }
         }
     }

@@ -62,10 +62,10 @@ namespace MoreMountains.CorgiEngine
 				{
 					MMAchievementManager.AddProgress ("slime", 1);
 				}
-				if (pickableItemEvent.PickedItem.GetComponent<Stimpack>() != null)
+				/*if (pickableItemEvent.PickedItem.GetComponent<Stimpack>() != null)
 				{
-					MMAchievementManager.UnlockAchievement ("Medic");
-				}
+					MMAchievementManager.UnlockAchievement ("jetpack");
+				}*/
 			}
 		}
 
