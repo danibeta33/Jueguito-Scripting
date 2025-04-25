@@ -55,7 +55,7 @@ MonoBehaviour:
     HiddenAchievement: 0
     UnlockedStatus: 0
     Title: skill issue
-    Description: muere por primera vez en el nivel
+    Description: muere por primera vez
     Points: 30
     LockedImage: {fileID: 21300010, guid: fa6d364a5a0575245859952062aea14b, type: 3}
     UnlockedImage: {fileID: 21300008, guid: fa6d364a5a0575245859952062aea14b, type: 3}
