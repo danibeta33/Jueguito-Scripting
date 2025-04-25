@@ -18,8 +18,8 @@ MonoBehaviour:
     AchievementType: 0
     HiddenAchievement: 0
     UnlockedStatus: 0
-    Title: cada vez mas cerca
-    Description: Reach the end of a level
+    Title: escapando ando
+    Description: supera el nivel
     Points: 200
     LockedImage: {fileID: 21300010, guid: fa6d364a5a0575245859952062aea14b, type: 3}
     UnlockedImage: {fileID: 21300004, guid: fa6d364a5a0575245859952062aea14b, type: 3}
