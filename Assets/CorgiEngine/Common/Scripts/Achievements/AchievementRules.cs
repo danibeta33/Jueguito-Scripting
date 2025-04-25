@@ -35,7 +35,7 @@ namespace MoreMountains.CorgiEngine
 				switch (characterEvent.EventType)
 				{
 					case MMCharacterEventTypes.Jump:
-						MMAchievementManager.AddProgress ("JumpAround", 1);
+						MMAchievementManager.AddProgress ("Saltamontes", 1);
 						break;
 				}	
 			}
@@ -46,7 +46,7 @@ namespace MoreMountains.CorgiEngine
 			switch (corgiEngineEvent.EventType)
 			{
 				case CorgiEngineEventTypes.LevelEnd:
-					MMAchievementManager.UnlockAchievement ("PrincessInAnotherCastle");
+					MMAchievementManager.UnlockAchievement ("gane");
 					break;
 				case CorgiEngineEventTypes.PlayerDeath:
 					MMAchievementManager.UnlockAchievement ("DeathIsOnlyTheBeginning");

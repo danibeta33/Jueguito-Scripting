@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AchievementsListID: AchievementsList
   Achievements:
-  - AchievementID: PrincessInAnotherCastle
+  - AchievementID: gane
     AchievementType: 0
     HiddenAchievement: 0
     UnlockedStatus: 0
@@ -26,17 +26,17 @@ MonoBehaviour:
     UnlockedSound: {fileID: 0}
     ProgressTarget: 0
     ProgressCurrent: 0
-  - AchievementID: JumpAround
+  - AchievementID: Saltamontes
     AchievementType: 0
     HiddenAchievement: 0
     UnlockedStatus: 0
-    Title: Jump Around
-    Description: Jump at least 10 times
+    Title: Saltamontes
+    Description: Salta 20 veces a lo largo del nivel
     Points: 100
     LockedImage: {fileID: 21300010, guid: fa6d364a5a0575245859952062aea14b, type: 3}
     UnlockedImage: {fileID: 21300000, guid: fa6d364a5a0575245859952062aea14b, type: 3}
     UnlockedSound: {fileID: 0}
-    ProgressTarget: 10
+    ProgressTarget: 20
     ProgressCurrent: 0
   - AchievementID: MoneyMoneyMoney
     AchievementType: 0
