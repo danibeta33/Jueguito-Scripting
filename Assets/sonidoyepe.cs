@@ -1,3 +1,4 @@
+using MoreMountains.Tools;
 using UnityEngine;
 
 public class SonidoPorProximidad : MonoBehaviour
@@ -9,6 +10,7 @@ public class SonidoPorProximidad : MonoBehaviour
         if (other.CompareTag("Player") && sonido != null)
         {
             sonido.Play();
+            MMAchievementManager.UnlockAchievement("easterEgg");
         }
     }
 }

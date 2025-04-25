@@ -43,12 +43,12 @@ MonoBehaviour:
     HiddenAchievement: 0
     UnlockedStatus: 0
     Title: slime por todos lados
-    Description: recolecta todas las bolas de slime del nivel
+    Description: recolecta 40 bolas de slime del nivel
     Points: 50
     LockedImage: {fileID: 21300010, guid: fa6d364a5a0575245859952062aea14b, type: 3}
     UnlockedImage: {fileID: 21300002, guid: fa6d364a5a0575245859952062aea14b, type: 3}
     UnlockedSound: {fileID: 0}
-    ProgressTarget: 21
+    ProgressTarget: 40
     ProgressCurrent: 0
   - AchievementID: primera muerte
     AchievementType: 0
@@ -68,6 +68,18 @@ MonoBehaviour:
     UnlockedStatus: 0
     Title: jetpack
     Description: obten el jetpack
+    Points: 25
+    LockedImage: {fileID: 21300010, guid: fa6d364a5a0575245859952062aea14b, type: 3}
+    UnlockedImage: {fileID: 21300006, guid: fa6d364a5a0575245859952062aea14b, type: 3}
+    UnlockedSound: {fileID: 0}
+    ProgressTarget: 0
+    ProgressCurrent: 0
+  - AchievementID: easterEgg
+    AchievementType: 0
+    HiddenAchievement: 0
+    UnlockedStatus: 0
+    Title: SCP-999
+    Description: encuentra el SCP-999
     Points: 25
     LockedImage: {fileID: 21300010, guid: fa6d364a5a0575245859952062aea14b, type: 3}
     UnlockedImage: {fileID: 21300006, guid: fa6d364a5a0575245859952062aea14b, type: 3}
