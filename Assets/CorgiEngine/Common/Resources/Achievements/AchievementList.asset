@@ -14,18 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AchievementsListID: AchievementsList
   Achievements:
-  - AchievementID: gane
-    AchievementType: 0
-    HiddenAchievement: 0
-    UnlockedStatus: 0
-    Title: escapando ando
-    Description: supera el nivel
-    Points: 200
-    LockedImage: {fileID: 21300010, guid: fa6d364a5a0575245859952062aea14b, type: 3}
-    UnlockedImage: {fileID: 21300004, guid: fa6d364a5a0575245859952062aea14b, type: 3}
-    UnlockedSound: {fileID: 0}
-    ProgressTarget: 0
-    ProgressCurrent: 0
   - AchievementID: Saltamontes
     AchievementType: 0
     HiddenAchievement: 0
@@ -36,7 +24,7 @@ MonoBehaviour:
     LockedImage: {fileID: 21300010, guid: fa6d364a5a0575245859952062aea14b, type: 3}
     UnlockedImage: {fileID: 21300000, guid: fa6d364a5a0575245859952062aea14b, type: 3}
     UnlockedSound: {fileID: 0}
-    ProgressTarget: 50
+    ProgressTarget: 5
     ProgressCurrent: 0
   - AchievementID: slime
     AchievementType: 0
@@ -62,24 +50,36 @@ MonoBehaviour:
     UnlockedSound: {fileID: 0}
     ProgressTarget: 0
     ProgressCurrent: 0
-  - AchievementID: jetpack
-    AchievementType: 0
-    HiddenAchievement: 0
-    UnlockedStatus: 0
-    Title: jetpack
-    Description: obten el jetpack
-    Points: 25
-    LockedImage: {fileID: 21300010, guid: fa6d364a5a0575245859952062aea14b, type: 3}
-    UnlockedImage: {fileID: 21300006, guid: fa6d364a5a0575245859952062aea14b, type: 3}
-    UnlockedSound: {fileID: 0}
-    ProgressTarget: 0
-    ProgressCurrent: 0
   - AchievementID: easterEgg
     AchievementType: 0
     HiddenAchievement: 0
     UnlockedStatus: 0
     Title: SCP-999
     Description: encuentra el SCP-999
+    Points: 25
+    LockedImage: {fileID: 21300010, guid: fa6d364a5a0575245859952062aea14b, type: 3}
+    UnlockedImage: {fileID: 21300006, guid: fa6d364a5a0575245859952062aea14b, type: 3}
+    UnlockedSound: {fileID: 0}
+    ProgressTarget: 0
+    ProgressCurrent: 0
+  - AchievementID: gane
+    AchievementType: 0
+    HiddenAchievement: 0
+    UnlockedStatus: 0
+    Title: escapando ando
+    Description: supera el nivel
+    Points: 200
+    LockedImage: {fileID: 21300010, guid: fa6d364a5a0575245859952062aea14b, type: 3}
+    UnlockedImage: {fileID: 21300004, guid: fa6d364a5a0575245859952062aea14b, type: 3}
+    UnlockedSound: {fileID: 0}
+    ProgressTarget: 0
+    ProgressCurrent: 0
+  - AchievementID: jetpack
+    AchievementType: 0
+    HiddenAchievement: 0
+    UnlockedStatus: 0
+    Title: jetpack
+    Description: obten el jetpack
     Points: 25
     LockedImage: {fileID: 21300010, guid: fa6d364a5a0575245859952062aea14b, type: 3}
     UnlockedImage: {fileID: 21300006, guid: fa6d364a5a0575245859952062aea14b, type: 3}
