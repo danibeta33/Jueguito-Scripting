@@ -257,4 +257,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LoadingScreen.unity
     guid: e991871aff22ce442b07bd1f75eceed6
+  - enabled: 1
+    path: Assets/Scenes/logros.unity
+    guid: 53aad5ca00645234795c2986e9c3038c
+  - enabled: 1
+    path: Assets/Scenes/dificultad.unity
+    guid: 7847662e635aba043a2627c280de4f4e
   m_configObjects: {}
