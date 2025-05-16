@@ -135,4 +135,4 @@ MonoBehaviour:
   DisableTargetObjectOnPick: 0
   TargetObjectToDisable: {fileID: 0}
   TargetObjectDisableDelay: 1
-  PointsToAdd: 10
+  PointsToAdd: 20
