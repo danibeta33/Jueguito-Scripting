@@ -208,8 +208,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2022179710}
-        m_TargetAssemblyTypeName: reiniciarjuego, Assembly-CSharp
-        m_MethodName: Reiniciar
+        m_TargetAssemblyTypeName: CambioExcenaboton, Assembly-CSharp
+        m_MethodName: LoadScene
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -768,10 +768,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 2022179708}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3ff667fa1f069294885fc09425a59315, type: 3}
+  m_Script: {fileID: 11500000, guid: d057b47d35635b1449c983a316108c4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreEscena: Menu
+  sceneName: Menu
 --- !u!1001 &8040196612217246658
 PrefabInstance:
   m_ObjectHideFlags: 0

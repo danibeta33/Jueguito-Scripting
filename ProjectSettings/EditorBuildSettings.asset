@@ -251,7 +251,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/nivel 3/Nivel 3 Facil.unity
     guid: 44c488af7a929454aad84b1231fd2c91
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/nivel 3/nivel 3 Medio.unity
     guid: 2616a541b4cf26c4c8dcac50233d97c4
   - enabled: 1
@@ -263,4 +263,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/dificultad.unity
     guid: 7847662e635aba043a2627c280de4f4e
+  - enabled: 1
+    path: Assets/Scenes/Ajustes.unity
+    guid: 1f9d5e3d1555c25409f8be65e7b6ea53
   m_configObjects: {}
