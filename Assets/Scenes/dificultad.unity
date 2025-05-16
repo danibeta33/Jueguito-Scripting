@@ -171,7 +171,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d057b47d35635b1449c983a316108c4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Nivel 3 Dificil
+  sceneName: Nivel 1 Dificil
 --- !u!1 &251154067
 GameObject:
   m_ObjectHideFlags: 0
@@ -1182,7 +1182,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: NIVEL 3 DIFICULTAD
+  m_text: DIFICULTAD
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: df3510c476d1246449388927f9d20002, type: 2}
   m_sharedMaterial: {fileID: 1453291636372774928, guid: df3510c476d1246449388927f9d20002,
@@ -1650,7 +1650,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d057b47d35635b1449c983a316108c4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Nivel 3 Facil
+  sceneName: Nivel 1 Facil
 --- !u!1 &2062758680
 GameObject:
   m_ObjectHideFlags: 0
@@ -1699,7 +1699,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d057b47d35635b1449c983a316108c4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Nivel 3 Medio
+  sceneName: Nivel 1 Medio
 --- !u!1001 &8040196612217246658
 PrefabInstance:
   m_ObjectHideFlags: 0

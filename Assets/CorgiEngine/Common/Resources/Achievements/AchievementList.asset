@@ -24,7 +24,7 @@ MonoBehaviour:
     LockedImage: {fileID: 21300010, guid: fa6d364a5a0575245859952062aea14b, type: 3}
     UnlockedImage: {fileID: 21300000, guid: fa6d364a5a0575245859952062aea14b, type: 3}
     UnlockedSound: {fileID: 0}
-    ProgressTarget: 5
+    ProgressTarget: 50
     ProgressCurrent: 0
   - AchievementID: slime
     AchievementType: 0

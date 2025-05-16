@@ -8289,11 +8289,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7a343ffc127af4b41b1e509d55d21956, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.7
+      value: -38.6
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7a343ffc127af4b41b1e509d55d21956, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.18
+      value: 65.9
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7a343ffc127af4b41b1e509d55d21956, type: 3}
       propertyPath: m_LocalPosition.z
@@ -20250,6 +20250,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4507214629503232808, guid: cd1821de20416244890f361b402cbe4b,
+        type: 3}
+      propertyPath: SceneToLoad
+      value: Ganar
+      objectReference: {fileID: 0}
+    - target: {fileID: 7160806035526194116, guid: cd1821de20416244890f361b402cbe4b,
+        type: 3}
+      propertyPath: sceneName
+      value: Ganar
       objectReference: {fileID: 0}
     - target: {fileID: 8453771161050986652, guid: cd1821de20416244890f361b402cbe4b,
         type: 3}

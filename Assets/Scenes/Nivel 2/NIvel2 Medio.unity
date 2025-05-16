@@ -3010,6 +3010,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4507214629503232808, guid: cd1821de20416244890f361b402cbe4b,
+        type: 3}
+      propertyPath: SceneToLoad
+      value: Nivel 3 Medio
+      objectReference: {fileID: 0}
+    - target: {fileID: 7160806035526194116, guid: cd1821de20416244890f361b402cbe4b,
+        type: 3}
+      propertyPath: sceneName
+      value: NIvel 3 Medio
+      objectReference: {fileID: 0}
     - target: {fileID: 8453771161050986652, guid: cd1821de20416244890f361b402cbe4b,
         type: 3}
       propertyPath: m_Name
