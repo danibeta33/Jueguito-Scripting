@@ -14,9 +14,9 @@ public class CambioEscenaContacto : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player")) // Check if the object that entered the trigger has the tag "Player"
-        {
+        // Check if the object that entered the trigger has the tag "Player"
+        
             MMSceneLoadingManager.LoadScene(sceneName); // Load the scene specified in the Inspector
-        }
+        
     }
 }
