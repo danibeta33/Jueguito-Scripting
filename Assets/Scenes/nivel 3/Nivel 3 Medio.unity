@@ -3987,7 +3987,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PlayerPrefabs:
-  - {fileID: 114473069959786316, guid: f681de43615e25948a4188ff5eeededd, type: 3}
+  - {fileID: 114473069959786316, guid: 39cc6459a5ae70e4d93bc30bb565ff25, type: 3}
   AutoAttributePlayerIDs: 1
   SceneCharacters: []
   DebugSpawn: {fileID: 1132044354}

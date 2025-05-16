@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 735472c10b7d14d4990444bdade614df
+guid: e9621bd04b098994cb2dac7a199050ce
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 400
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -98,7 +98,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sprites_0
+      name: sprites-export_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 16
-        width: 47
-        height: 43
+        x: 37
+        y: 55
+        width: 154
+        height: 172
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: faeb3adf0d4ede347acdd7710d7521f1
-      internalID: -1993295968
+      spriteID: ff5fa1e3d77e507459857d9787d950ec
+      internalID: -866062529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites_1
+      name: sprites-export_1
       rect:
         serializedVersion: 2
-        x: 70
-        y: 16
-        width: 47
-        height: 43
+        x: 253
+        y: 55
+        width: 168
+        height: 172
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e687806f893392d4f8e67ecdb8f6f655
-      internalID: 868584430
+      spriteID: c2d4412bd9d42174586bc97becbea656
+      internalID: -741274938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites_2
+      name: sprites-export_2
       rect:
         serializedVersion: 2
-        x: 137
-        y: 16
-        width: 47
-        height: 43
+        x: 508
+        y: 55
+        width: 140
+        height: 172
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 145b9bb5de036094b99cd04dcd2b4d66
-      internalID: 1315817635
+      spriteID: b46e65ad5ce3511448752f45190e42e0
+      internalID: -811761569
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites_3
+      name: sprites-export_3
       rect:
         serializedVersion: 2
-        x: 203
-        y: 16
-        width: 47
-        height: 43
+        x: 736
+        y: 55
+        width: 149
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 027ab66b4a77d8c4481f66ed378d1daf
-      internalID: -1507455869
+      spriteID: 14b41c19df4b55d4085c501fe3cf6cab
+      internalID: 949495822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites_4
+      name: sprites-export_4
       rect:
         serializedVersion: 2
-        x: 264
-        y: 16
-        width: 47
-        height: 43
+        x: 957
+        y: 58
+        width: 153
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6bd899b5b801aaf48b5f70cdba8d3258
-      internalID: -2069190818
+      spriteID: 88e5f479751bdab448baaf59ffb9a8aa
+      internalID: 93823540
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites_5
+      name: sprites-export_5
       rect:
         serializedVersion: 2
-        x: 328
-        y: 16
-        width: 47
-        height: 43
+        x: 1180
+        y: 55
+        width: 154
+        height: 151
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,20 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b79ba649e9d6a4248870bfec3ee91e42
-      internalID: -1189197054
+      spriteID: 3617d6cd697d2e34e98a92b8d933fecc
+      internalID: -1771748614
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprites_6
+      name: sprites-export_6
       rect:
         serializedVersion: 2
-        x: 396
+        x: 1455
         y: 1
-        width: 36
-        height: 57
+        width: 89
+        height: 202
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,8 +250,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1610a396cca0daf48af639e055dd1bb6
-      internalID: 428550548
+      spriteID: a6f3b76cfca80b54897821d2abdcc302
+      internalID: 1449743271
       vertices: []
       indices: 
       edges: []
@@ -267,13 +267,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      sprites_0: -1993295968
-      sprites_1: 868584430
-      sprites_2: 1315817635
-      sprites_3: -1507455869
-      sprites_4: -2069190818
-      sprites_5: -1189197054
-      sprites_6: 428550548
+      sprites-export_0: -866062529
+      sprites-export_1: -741274938
+      sprites-export_2: -811761569
+      sprites-export_3: 949495822
+      sprites-export_4: 93823540
+      sprites-export_5: -1771748614
+      sprites-export_6: 1449743271
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
