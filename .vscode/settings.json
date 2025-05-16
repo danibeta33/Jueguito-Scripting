@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Scripting.sln"
+    "dotnet.defaultSolution": "Jueguito-Scripting.sln"
 }
