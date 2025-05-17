@@ -24,6 +24,9 @@ EditorBuildSettings:
     path: Assets/Scenes/creditos.unity
     guid: 0bf9ba6011630cf409a3cb62952aa822
   - enabled: 1
+    path: Assets/Scenes/Ganar.unity
+    guid: 81cbfd72f0d25dc4c997dda49d24b693
+  - enabled: 1
     path: Assets/Scenes/Nivel 1/Nivel 1 Dificil.unity
     guid: 126252f61c181bf42b43fe7b762d0e85
   - enabled: 1
@@ -33,7 +36,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Nivel 1/Nivel 1 Medio.unity
     guid: f1cc4e46d6cf83d4b8d464c0d6e769cc
   - enabled: 1
-    path: Assets/Scenes/Nivel 2/Nivel2 DIficil.unity
+    path: Assets/Scenes/Nivel 2/NIvel2 Dificil.unity
     guid: f619e686a9d32ee4ab63f353ca6b764c
   - enabled: 1
     path: Assets/Scenes/Nivel 2/Nivel2 Facil.unity

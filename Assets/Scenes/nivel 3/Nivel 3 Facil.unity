@@ -16410,6 +16410,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: New Checkpoint
       objectReference: {fileID: 0}
+    - target: {fileID: 121846, guid: 23fb440a74a4ec94fae41c0c2a691f85, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 490116, guid: 23fb440a74a4ec94fae41c0c2a691f85, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.71538794
@@ -18218,7 +18222,7 @@ PrefabInstance:
     - target: {fileID: 6605513643689369290, guid: 6d19ff08ffdc2b947a0f791e177396bf,
         type: 3}
       propertyPath: PointsToAdd
-      value: 10
+      value: 20
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21527,7 +21531,7 @@ PrefabInstance:
     - target: {fileID: 6605513643689369290, guid: 6d19ff08ffdc2b947a0f791e177396bf,
         type: 3}
       propertyPath: PointsToAdd
-      value: 10
+      value: 20
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
