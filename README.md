@@ -31,12 +31,17 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
   <img src="https://github.com/user-attachments/assets/6468aa16-9832-4ab5-b846-a74d22eea9c5" alt="Logro 8" width="90">
 </p>
 
+## Fondos
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/40aea8bd-729a-4f90-9353-6ebd7abd178a" alt="Menu" width="14">
+ <img src="https://github.com/user-attachments/assets/b532b316-d6bc-4fd5-91e5-ea4cea2278c5" alt="Instrucciones" width="140">
+ <img src="https://github.com/user-attachments/assets/91a78d0a-d9bb-4eb2-ad14-808340ff4809" alt="Fondo 1" width="120">
+ <img src="https://github.com/user-attachments/assets/b7f9ad6d-d1f6-4b30-9c5f-8420d85e189b" alt="Fondo 2" width="120">
+ <img src="https://github.com/user-attachments/assets/bcbe1f10-2590-4035-9f8f-e079be3eb319" alt="Muerte" width="140">
+ <img src="https://github.com/user-attachments/assets/d9ff659a-70c3-424e-839c-2841579d3e5c" alt="Victoria" width="140">
+</p>
 
-
-
-
-
-
+### 
 
 
 
