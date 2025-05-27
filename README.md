@@ -1,4 +1,8 @@
 # Scripting
+### Integrantes
+- Juliana Monroy
+- Daniel Betancourt
+- Manuela Barrera
 
 ## Medios de visualización
 
