@@ -2,8 +2,8 @@
 
 ## Medios de visualización
 
-- [ ] [Drive del Arte](https://drive.google.com/drive/folders/1--vSs6cHjV63ebkiVUp4viwhSzVRgkoZ) 
-- [ ] [Diapositivas](https://www.canva.com/design/DAGfDRZRSKA/gcMdKxUJh-J_vefLGizU3w/edit?utm_content=DAGfDRZRSKA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Drive del Arte](https://drive.google.com/drive/folders/1--vSs6cHjV63ebkiVUp4viwhSzVRgkoZ) 
+- [Diapositivas](https://www.canva.com/design/DAGfDRZRSKA/gcMdKxUJh-J_vefLGizU3w/edit?utm_content=DAGfDRZRSKA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Arte
 ### Logo
