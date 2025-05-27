@@ -56,6 +56,33 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
   <img src="https://github.com/user-attachments/assets/cf64a98b-fa09-470d-b67f-15052d662a5e" alt="Boton11" width="90">
 </p>
 
+### Promps
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f2614c8d-42cb-4b2e-89b6-edb31ede45c2" alt="Boton1" width="90">
+  <img src="https://github.com/user-attachments/assets/391a124a-663a-40fd-a18f-8094979aebed" alt="Boton2" width="90">
+  <img src="https://github.com/user-attachments/assets/06e21427-340f-4568-9655-92e468976880" alt="Boton3" width="90">
+  <img src="https://github.com/user-attachments/assets/95d81c09-c67f-4bc7-928f-6fea6d0354bd" alt="Boton4" width="50">
+  <img src="https://github.com/user-attachments/assets/ac8d277e-48bc-4466-b89a-5adaa93c110c" alt="Boton4" width="50">
+  <img src="https://github.com/user-attachments/assets/31bc19f1-23ac-48a4-b67f-106255ce78f0" alt="Boton4" width="30">
+  <img src="https://github.com/user-attachments/assets/e03e0d5b-377a-467d-88ef-a9aa712204f1" alt="Boton4" width="90">
+  <img src="https://github.com/user-attachments/assets/e7f42da6-52da-418c-bd01-ffefb4ace0d4" alt="Boton4" width="90">
+  <img src="https://github.com/user-attachments/assets/e3b3c009-a797-444b-979c-d0c9ad2170b9" alt="Boton4" width="45">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0ad1b689-3c17-4b43-9a41-a7c04bf8ebbe" alt="Boton3" width="90">
+  <img src="https://github.com/user-attachments/assets/32f42eb7-fc10-480c-8269-be6af75c15ce" alt="Boton3" width="90">
+  <img src="https://github.com/user-attachments/assets/7126634e-2688-449f-b818-94a2649e44fe" alt="Boton3" width="180">
+</p>
+
+
+
+
+
+
+
+
+
 
 
 
